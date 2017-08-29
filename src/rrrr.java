@@ -6,4 +6,6 @@ public class rrrr {
   private String ddd;
 
   private String ssdd;
+
+  private String ssdddfgg;
 }
