@@ -4,4 +4,6 @@
 public class rrrr {
   private String sss;
   private String ddd;
+
+  private String ssdd;
 }
