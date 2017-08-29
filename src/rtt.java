@@ -3,4 +3,5 @@
  */
 public class rtt {
   private String ss;
+  private String sss;
 }
