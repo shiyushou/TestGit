@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HiberbateTest/HiberbateTest.iml" filepath="$PROJECT_DIR$/HiberbateTest/HiberbateTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoYaSuoffmpeg.iml" filepath="$PROJECT_DIR$/VideoYaSuoffmpeg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sssssss/sssssss.iml" filepath="$PROJECT_DIR$/sssssss/sssssss.iml" />
+    </modules>
+  </component>
+</project>
