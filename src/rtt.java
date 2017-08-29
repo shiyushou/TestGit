@@ -5,4 +5,6 @@ public class rtt {
   private String ssq;
   private String sssdddg;
 
+  private String ssdfg;
+
 }
