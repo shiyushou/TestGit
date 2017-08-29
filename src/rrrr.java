@@ -3,4 +3,6 @@
  */
 public class rrrr {
   private String sss;
+
+  private String ssdd;
 }
